@@ -75,7 +75,7 @@ Wireshark cannot automatically decrypt raw encrypted payloads (like standard HTT
 ![TCP Filter](screenshot/screenshot_2.png)
 
 ### ICMP Filter View
-![ICMP Filter](scrrenshot/screenshot_3.png)
+![ICMP Filter](screenshot/screenshot_3.png)
 
 ---
 
