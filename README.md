@@ -67,6 +67,18 @@ Wireshark cannot automatically decrypt raw encrypted payloads (like standard HTT
 
 ## Repository Deliverables
 * `network_analysis_capture.pcapng` (Raw Packet Capture File)
-* `screenshot_1.png` (DNS Filter View)
-* `screenshot_2.png` (TCP Filter View)
-* `screenshot_3.png` (ICMP Filter View)
+
+### DNS Filter View
+![DNS Filter](screenshot_1.png)
+
+### TCP Filter View
+![TCP Filter](screenshot_2.png)
+
+### ICMP Filter View
+![ICMP Filter](screenshot_3.png)
+
+---
+
+## 📊 Project Outcome
+
+Through this hands-on task, I successfully captured and isolated live network traffic using Wireshark, demonstrating practical competency in protocol analysis. By filtering and analyzing real-time data packets, I successfully validated three fundamental network communication protocols: **DNS** (application layer name resolution), **TCP** (reliable transport layer streaming), and **ICMP** (network layer diagnostic ping controls). This exercise directly enhanced my foundational skills in packet analysis, network troubleshooting, and security baseline monitoring.
