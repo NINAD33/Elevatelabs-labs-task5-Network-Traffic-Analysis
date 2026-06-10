@@ -69,13 +69,13 @@ Wireshark cannot automatically decrypt raw encrypted payloads (like standard HTT
 * `network_analysis_capture.pcapng` (Raw Packet Capture File)
 
 ### DNS Filter View
-![DNS Filter](screenshot_1.png)
+![DNS Filter](screenshot/screenshot_1.png)
 
 ### TCP Filter View
-![TCP Filter](screenshot_2.png)
+![TCP Filter](screenshot/screenshot_2.png)
 
 ### ICMP Filter View
-![ICMP Filter](screenshot_3.png)
+![ICMP Filter](scrrenshot/screenshot_3.png)
 
 ---
 
